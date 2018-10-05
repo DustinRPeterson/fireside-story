@@ -1,7 +1,12 @@
 body {
-color:white;
-background-color: #333;
-font-size: 150%;
-font-family: 'satisfy', cursive;
-margin: 5em 25%;
+<<<<<<< HEAD
+=======
+  color: white;
+  background-color: black;
+  font-family: 'Sacramento', cursive;
+  font-size: 32px;
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+>>>>>>> abb84aa23398c4afc94cf71f91d2d31a80b73d58
 }
